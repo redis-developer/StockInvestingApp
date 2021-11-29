@@ -1,6 +1,8 @@
 # Stock Investor App 
 
-A stock investing app which has following functionalities-
+A stock investing web application built using Django and Redis. 
+
+The app comes with the following functionalities-
 1. View all stocks listed on the National Stock Exchange.
 2. View the top gainers and losers of today.
 3. Buy/Sell stocks (intraday trading available).
